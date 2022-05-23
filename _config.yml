@@ -4,7 +4,7 @@ source: [B2Five.github.io]
 incremental: false
 highlighter: rouge
 gist:
-  noscript: false
+  noscript: true
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
