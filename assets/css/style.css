@@ -938,14 +938,14 @@ section {
 .portfolio #portfolio-flters li:last-child {
   margin-right: 0;
 }
-.portfolio .portfolio-wrap {
+/* .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
   z-index: 1;
   background: rgba(255, 255, 255, 0.75);
-}
-.portfolio .portfolio-wrap::before {
+} */
+/* .portfolio .portfolio-wrap::before {
   content: "";
   background: rgba(255, 255, 255, 0.75);
   position: absolute;
@@ -956,7 +956,7 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
-}
+} */
 .portfolio .portfolio-wrap img {
   transition: 1s;
 }
