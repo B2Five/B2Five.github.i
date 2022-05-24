@@ -1195,8 +1195,9 @@ section {
   background: #fff;
   padding: 60px 0;
 }
-.memb-img{
-  max-height: 300px;
+.team .memb-img{
+  height: 300px;
+  overflow: hidden;
 }
 .team .member {
   overflow: hidden;
